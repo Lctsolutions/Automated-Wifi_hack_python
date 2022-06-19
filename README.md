@@ -19,6 +19,8 @@ And this won't be continued or updated in future becoz,
 -    ==>So, The good of amount of time is invested in Learning my interested fields 
 -    ==>And new projects will be released on that.
     
- 
-    
+Note:
+-   [-]Works on Linux Distros with net-tools installed only.
+
+   
 ----------------------------------------------------------------------------ThankYou-----------------------------------------------------------------------
