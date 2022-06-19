@@ -11,6 +11,8 @@ It automatically,
 
 This Project isn't completed yet.
 
+[+]Aimed at User-friendly on Command-Line Terminal.
+
 Started this Project while starting to Learn Python. And now, it needs a lot cleaning, refactoring.
 
 And this won't be continued or updated in future becoz,
