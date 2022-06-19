@@ -28,7 +28,7 @@ def find_mac_finder():                                                          
                     mac.append(l)
     global z
     for z in range(0, count):                                                   #to print the captured details in a specfic format we use for loop
-        print(z + 1, ".", mac_name[z], "=", mac[z])                             #mac_name=list(NAN),mac=list(NAN mac address)
+        print(z + 1, ".", mac_name[z], "=", mac[z])                             #mac_name=list(NAN),mac=list(NAN mac address) 
     print(z + 2, ".", "Exit")
 
 
