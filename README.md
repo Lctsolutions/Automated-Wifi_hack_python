@@ -23,6 +23,6 @@ And this won't be continued or updated in future becoz,
     
 Note:
 -   [-]Works on Linux Distros with net-tools installed only.
-
+-   [-]For Educational Purposes Only.
    
 ----------------------------------------------------------------------------ThankYou-----------------------------------------------------------------------
