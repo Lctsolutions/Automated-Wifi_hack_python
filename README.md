@@ -19,7 +19,7 @@ And this won't be continued or updated in future becoz,
 -    ==>Just wanted to create my own Automated-wifi_hack
 -    ==>Already good Automated tools exist...
 -    ==>So, The good of amount of time is invested in Learning my interested fields 
--    ==>And new projects will be released on that.
+-    ==>And new projects will be released on that...
     
 Note:
 -   [-]Works on Linux Distros with net-tools installed only.
